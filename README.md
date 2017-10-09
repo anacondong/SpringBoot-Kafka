@@ -6,6 +6,7 @@ JAVA 8<br/>
 #### Pre require
 Java 8<br/>
 Maven<br/>
+Kafka >>> https://github.com/anacondong/Kafka-Windows-installation
 
 #### How to run: 
 mvn spring-boot:run <br/>
